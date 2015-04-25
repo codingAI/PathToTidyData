@@ -2,7 +2,7 @@ Below is a list of the variables included in our tidy data set. We did not inclu
 
 -   subject-id
 
-id of the subject performing the activity and from which measurements are taken
+numerical id of the subject performing the activity and from which measurements are taken
 
 -   activity-id
 
